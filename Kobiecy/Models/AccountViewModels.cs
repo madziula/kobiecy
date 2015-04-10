@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+//kupa
 namespace Kobiecy.Models
 {
     public class ExternalLoginConfirmationViewModel
